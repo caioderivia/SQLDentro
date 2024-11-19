@@ -1,6 +1,3 @@
-REM   Script: SQLDentroAtividade09
-REM   Atividade de SQL PBD - Campus Vila Prudente
-
 CREATE TABLE PRODUTOS ( 
     ID_PRODUTO NUMBER PRIMARY KEY,     
     DESCRICAO VARCHAR2(255),           
